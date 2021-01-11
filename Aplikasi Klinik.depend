@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1610280320 source:d:\kuliah\algoritma pemrograman\tugas besar\aplikasi klinik\main.cpp
+	<iostream>
+	<stdlib.h>
+
